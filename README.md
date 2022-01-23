@@ -12,6 +12,8 @@ If you would like to contribute to fix the code you can be my guest but I will n
 
 Make sure to join Pythons amazing server to https://discord.gg/4Sy9kjHkEr
 
+Also Check out awesome new video https://www.youtube.com/watch?v=6ISkPi_nVIA&t=3s
+
 ## Credit
 Python (Being amazing and fixing my issue's)\
 CeMrK (Hes just a sexy mf)\
